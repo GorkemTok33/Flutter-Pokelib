@@ -26,3 +26,6 @@ send request to api and get response from api.</p>
      <td><img src='https://user-images.githubusercontent.com/79594881/153776022-de6f4518-baa9-486a-868c-6d934445d80d.png'/></td>
   </tr>
 </table>
+<br>
+<br>
+<b>Thank you for reading</b>
