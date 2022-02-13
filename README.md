@@ -13,14 +13,16 @@ send request to api and get response from api.</p>
     <th>Detail Screen</th>
   </tr>
   <tr>
-    <td><img src='https://user-images.githubusercontent.com/79594881/153772712-7266636e-d99e-4059-bfc1-02cf3c15f426.png'/></td>
-    <td><img src='https://user-images.githubusercontent.com/79594881/153772735-59ccded1-a77f-4db5-b85b-85dc016c93ce.png'/></td>
-    <td><img src='https://user-images.githubusercontent.com/79594881/153772751-dc4c75f1-bdcd-4bfe-b0d2-663572130a3f.png'/></td>
+    <td><img src='https://user-images.githubusercontent.com/79594881/153775956-0c1a6d2c-adb5-43fe-9022-bad396a011cd.png'/></td>
+    <td><img src='https://user-images.githubusercontent.com/79594881/153775958-b1356543-330b-47a8-9e27-eb3e03729246.png'/></td>
+    <td><img src='https://user-images.githubusercontent.com/79594881/153775954-859ecfa9-74d1-4385-b69b-377342661ccf.png'/></td>
   </tr>
   <tr>
+    <th>Home Screen Search</th>
     <th>Error Screen</th>
   </tr>
   <tr>
-     <td><img src='https://user-images.githubusercontent.com/79594881/153773025-dd03b97b-dc84-4b3f-a9ff-2a6f47437216.jpeg'/></td>
+    <td><img src='https://user-images.githubusercontent.com/79594881/153775960-d381d521-aba5-4906-bf5a-ef6c879b7b28.png'/></td>
+     <td><img src='https://user-images.githubusercontent.com/79594881/153776022-de6f4518-baa9-486a-868c-6d934445d80d.png'/></td>
   </tr>
 </table>
