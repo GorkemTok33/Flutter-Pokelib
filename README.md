@@ -18,7 +18,7 @@ send request to api and get response from api.</p>
     <td><img src='https://user-images.githubusercontent.com/79594881/153772751-dc4c75f1-bdcd-4bfe-b0d2-663572130a3f.png'/></td>
   </tr>
   <tr>
-    <th>Error Scree</th>
+    <th>Error Screen</th>
   </tr>
   <tr>
      <td><img src='https://user-images.githubusercontent.com/79594881/153773025-dd03b97b-dc84-4b3f-a9ff-2a6f47437216.jpeg'/></td>
