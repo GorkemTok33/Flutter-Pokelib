@@ -7,7 +7,6 @@ send request to api and get response from api.</p>
 
 <h3>Screenshots</h3>
 <table>
-
   <tr>
     <th>Splash Screen</th>
     <th>Home Screen</th>
@@ -17,5 +16,11 @@ send request to api and get response from api.</p>
     <td><img src='https://user-images.githubusercontent.com/79594881/153772712-7266636e-d99e-4059-bfc1-02cf3c15f426.png'/></td>
     <td><img src='https://user-images.githubusercontent.com/79594881/153772735-59ccded1-a77f-4db5-b85b-85dc016c93ce.png'/></td>
     <td><img src='https://user-images.githubusercontent.com/79594881/153772751-dc4c75f1-bdcd-4bfe-b0d2-663572130a3f.png'/></td>
+  </tr>
+  <tr>
+    <th>Error Scree</th>
+  </tr>
+  <tr>
+     <td><img src='https://user-images.githubusercontent.com/79594881/153773025-dd03b97b-dc84-4b3f-a9ff-2a6f47437216.jpeg'/></td>
   </tr>
 </table>
