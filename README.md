@@ -1,5 +1,5 @@
 # Flutter-Pokelib
-<p>Hi everyone, I m trying to learn flutter and I have two months experience. I coded a simple pokedex mobile application. That contains provider architech, custom routing,
+<p>Hi everyone, I m trying to learn flutter and I have two months experience. I coded a simple pokedex mobile application. That contains provider for state management, custom routing,
 find dominat color with palette generator,
 send request to api and get response from api.</p>
 <h3>Lets take a look how my application run ?</h3> 
