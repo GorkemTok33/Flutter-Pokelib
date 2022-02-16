@@ -1,4 +1,4 @@
-# flutter_application_pokedex
+# flutter_application_pokelib
 
 A new Flutter project.
 
